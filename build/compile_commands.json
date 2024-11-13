@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-DSDL_VIDEO_VULKAN=1",
+      "-I/home/pablo/Documents/game/include",
+      "-isystem",
+      "/usr/include/SDL2",
+      "-std=gnu++17",
+      "-c",
+      "-o",
+      "CMakeFiles/game.dir/src/main.cpp.o",
+      "/home/pablo/Documents/game/src/main.cpp"
+    ],
+    "directory": "/home/pablo/Documents/game/build",
+    "file": "/home/pablo/Documents/game/src/main.cpp",
+    "output": "/home/pablo/Documents/game/build/CMakeFiles/game.dir/src/main.cpp.o"
+  }
+]
